@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cathan22
+- 👋 Hola, Soy Cristian Meneses, ingeniero en informatica y profesor de enseñanza superior en informatica.
 - 👀 Estoy interesado en enseñar y ayudar a otras personas
 - 🌱 Actualmente estoy aprendiendo REACT
 - 💞️ Estoy mirando como colaborar en alguna institucion sin fines de lucro.
