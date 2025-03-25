@@ -1,8 +1,6 @@
-- 👋 Hola, Soy Cristian Meneses, ingeniero en informatica y profesor de enseñanza superior en informatica.
-- 👀 Estoy interesado en enseñar y ayudar a otras personas
-- 🌱 Actualmente estoy aprendiendo REACT
-- 💞️ Estoy mirando como colaborar en alguna institucion sin fines de lucro.
-- 📫 Puedes escribirme a mi correo c.meneses@outlook.cl
+- 👋 Hola, Soy Cristian Meneses, ingeniero en informatica ex docente de enseñanza superior en informatica.
+- 👀 Me gusta compartir mis conocimientos y ayudar
+- 🌱 Siempre aprendiendo
 
 <!---
 cathan22/cathan22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
